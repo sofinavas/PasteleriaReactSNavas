@@ -1,12 +1,22 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import "./ItemListContainer.css";
+import { pedirDatos } from "../../services/pedirDatos";
+import ItemList from "../ItemList/ItemList";
 
-function ItemListContainer() {
+const ItemListContainer = () => {
+  const [productos, setProductos] = useState([]);
+
+  useEffect(() => {
+    pedirDatos().then((res) => {
+      setProductos(res);
+    });
+  }, []);
+
   return (
     <div>
-      <h1 className="greeting">Bienvenidos a la Paste</h1>
+      <ItemList productos={productos} />
     </div>
   );
-}
+};
 
 export default ItemListContainer;

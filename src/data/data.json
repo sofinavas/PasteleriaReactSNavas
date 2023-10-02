@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "tipo": "torta",
+    "nombre": "Milhojas",
+    "precio": 5000,
+    "img": "../img/Tortas/milhojas-zoom.jpg",
+    "descripcion": "torta de "
+  },
+  {
+    "id": 2,
+    "tipo": "torta",
+    "nombre": "Cheeseake",
+    "precio": 5000,
+    "img": "../img/Tortas/cheesecake-entera.jpg"
+  },
+  {
+    "id": 3,
+    "tipo": "torta",
+    "nombre": "Concorde",
+    "precio": 5000,
+    "img": "../img/Tortas/concorde-zoom.jpg"
+  },
+  {
+    "id": 4,
+    "tipo": "torta",
+    "nombre": "Marquise",
+    "precio": 5000,
+    "img": "../img/Tortas/marquise-entera.jpg"
+  },
+  {
+    "id": 5,
+    "tipo": "torta",
+    "nombre": "Pavlova",
+    "precio": 5000,
+    "img": "../img/Tortas/pavlova-entera.jpg"
+  },
+  {
+    "id": 6,
+    "tipo": "torta",
+    "nombre": "Selva Negra",
+    "precio": 5000,
+    "img": "../img/Tortas/selva-negra-zoom.jpg"
+  },
+  {
+    "id": 7,
+    "tipo": "torta",
+    "nombre": "Tiramisu",
+    "precio": 5000,
+    "img": "../img/Tortas/tiramisu-zoom.jpg"
+  },
+  {
+    "id": 8,
+    "tipo": "torta",
+    "nombre": "Torta por Kilo",
+    "precio": 5000,
+    "img": "../img/Tortas/torta-deco-entera.jpg"
+  },
+  {
+    "id": 9,
+    "tipo": "tarta",
+    "nombre": "Tarta Beni",
+    "precio": 5000,
+    "img": "../img/Tartas/beni-arriba.jpg"
+  },
+  {
+    "id": 10,
+    "tipo": "tarta",
+    "nombre": "Tarta de Maracuya",
+    "precio": 5000,
+    "img": "../img/Tartas/maracuya-entera.jpg"
+  },
+  {
+    "id": 9,
+    "tipo": "tarta",
+    "nombre": "Tarta de Peras y Almendras",
+    "precio": 5000,
+    "img": "../img/Tartas/peras-almendras.jpg"
+  }
+]
