@@ -1,80 +1,98 @@
 [
   {
     "id": 1,
-    "tipo": "torta",
-    "nombre": "Milhojas",
+    "categoria": "tortas",
+    "titulo": "Milhojas",
     "precio": 5000,
     "img": "../img/Tortas/milhojas-zoom.jpg",
-    "descripcion": "torta de "
+    "descripcion": "Milhojas de dulce de leche cubierta con merengue italiano. "
   },
   {
     "id": 2,
-    "tipo": "torta",
-    "nombre": "Cheeseake",
+    "categoria": "tortas",
+    "titulo": "Cheesecake",
     "precio": 5000,
-    "img": "../img/Tortas/cheesecake-entera.jpg"
+    "img": "../img/Tortas/cheesecake-entera.jpg",
+    "descripcion": "Base de galletitas molidas, crema de queso blanco y mermelada de frutos rojos. "
   },
   {
     "id": 3,
-    "tipo": "torta",
-    "nombre": "Concorde",
+    "categoria": "tortas",
+    "titulo": "Concorde",
     "precio": 5000,
-    "img": "../img/Tortas/concorde-zoom.jpg"
+    "img": "../img/Tortas/concorde-zoom.jpg",
+    "descripcion": "Discos de merengue de cacao y mousse de chocolate con leche cubierta con bastoncitos de merengue de cacao. "
   },
   {
     "id": 4,
-    "tipo": "torta",
-    "nombre": "Marquise",
+    "categoria": "tortas",
+    "titulo": "Marquise",
     "precio": 5000,
-    "img": "../img/Tortas/marquise-entera.jpg"
+    "img": "../img/Tortas/marquise-entera.jpg",
+    "descripcion": "Base húmeda de chocolate, dulce de leche, crema y merengue italiano. "
   },
   {
     "id": 5,
-    "tipo": "torta",
-    "nombre": "Pavlova",
+    "categoria": "tortas",
+    "titulo": "Pavlova",
     "precio": 5000,
-    "img": "../img/Tortas/pavlova-entera.jpg"
+    "img": "../img/Tortas/pavlova-entera.jpg",
+    "descripcion": "Canasta de merengue con dulce de leche, crema y fruta de estación. "
   },
   {
     "id": 6,
-    "tipo": "torta",
-    "nombre": "Selva Negra",
+    "categoria": "tortas",
+    "titulo": "Selva Negra",
     "precio": 5000,
-    "img": "../img/Tortas/selva-negra-zoom.jpg"
+    "img": "../img/Tortas/selva-negra-zoom.jpg",
+    "descripcion": "Bizcochuelo de chocolate, almibar de kirch, cerezas al marraschino, crema chantilly y virutas de chocolate. "
   },
   {
     "id": 7,
-    "tipo": "torta",
-    "nombre": "Tiramisu",
+    "categoria": "tortas",
+    "titulo": "Tiramisu",
     "precio": 5000,
-    "img": "../img/Tortas/tiramisu-zoom.jpg"
+    "img": "../img/Tortas/tiramisu-zoom.jpg",
+    "descripcion": "Vainillas embebidas en almibar de café y coñac con suave crema de queso, espolvoreado con cacao amargo. "
   },
   {
     "id": 8,
-    "tipo": "torta",
-    "nombre": "Torta por Kilo",
+    "categoria": "tortas",
+    "titulo": "Torta por Kilo",
     "precio": 5000,
-    "img": "../img/Tortas/torta-deco-entera.jpg"
+    "img": "../img/Tortas/torta-deco-entera.jpg",
+    "descripcion": "Bizcochuelo de vainilla o chocolate humedecidos con almibar. La torta puede puede tener de 2 a 3 cortes según el tamaño... "
   },
   {
     "id": 9,
-    "tipo": "tarta",
-    "nombre": "Tarta Beni",
+    "categoria": "tartas",
+    "titulo": "Tarta Beni",
     "precio": 5000,
-    "img": "../img/Tartas/beni-arriba.jpg"
+    "img": "../img/Tartas/beni-arriba.jpg",
+    "descripcion": "Masa sablee de cacao, dulce de leche, maní y almendras tostadas, ganache de chocolate "
   },
   {
     "id": 10,
-    "tipo": "tarta",
-    "nombre": "Tarta de Maracuya",
+    "categoria": "tartas",
+    "titulo": "Tarta de Maracuya",
     "precio": 5000,
-    "img": "../img/Tartas/maracuya-entera.jpg"
+    "img": "../img/Tartas/maracuya-entera.jpg",
+    "descripcion": "Masa sablee, fina capa de dulce de leche, crema de maracuya. Decorada con virutas de chocolate blanco. "
   },
   {
-    "id": 9,
-    "tipo": "tarta",
-    "nombre": "Tarta de Peras y Almendras",
+    "id": 11,
+    "categoria": "tartas",
+    "titulo": "Tarta de Peras y Almendras",
     "precio": 5000,
-    "img": "../img/Tartas/peras-almendras.jpg"
+    "img": "../img/Tartas/peras-almendras.jpg",
+    "descripcion": "Masa sablee, clafoutis de peras y almendras. Almendras tostadas y crema chantilli. "
+  },
+  {
+    "id": 12,
+    "categoria": "pequenas-tentaciones",
+    "titulo": "Bandeja de masas",
+    "precio": 5000,
+    "img": "../img/pequenas-tentaciones/bandeja-de-masas-zoom.jpg",
+    "descripcion": "42 unidades surtidas (6 variedades, 7un de cada tipo), no siempre son iguales. En general tenemos brownie, coco y dulce de leche, cabsha, lemon pie, mini pavlovitas, alfajores de nuez, bombitas de crema."
   }
 ]
