@@ -40,6 +40,11 @@ const Navbar = () => {
             Pequeñas tentaciones
           </Link>
         </li>
+        <li>
+          <Link className="menu-link" to="/contacto">
+            Contacto
+          </Link>
+        </li>
       </ul>
       <CartWidget />
     </nav>
